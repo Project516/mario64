@@ -1,0 +1,8 @@
+Keyboard Controls
+Movement: WASD
+A: L
+B: , (Comma Button/Less Than Button)
+L: R-Shift
+Z: K
+Start: Space
+C-stick: Arrow Keys
